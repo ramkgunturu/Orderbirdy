@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">385727330852-kgerdl0im3tdjrdttn5prrvif0bbtrke.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">385727330852</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDjGkIaDRwVQvoCIA9GGL6YXk0i6ULsRQ</string>
+    <string name="google_app_id" translatable="false">1:385727330852:android:7117c1d1cbda27828c36b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDjGkIaDRwVQvoCIA9GGL6YXk0i6ULsRQ</string>
+    <string name="google_storage_bucket" translatable="false">orderbirdy-37854.appspot.com</string>
+    <string name="project_id" translatable="false">orderbirdy-37854</string>
+</resources>

@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "385727330852",
+    "project_id": "orderbirdy-37854",
+    "storage_bucket": "orderbirdy-37854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385727330852:android:e39c9aed0a3548958c36b1",
+        "android_client_info": {
+          "package_name": "com.orderbirdy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385727330852-fvtguagi01uh0dnandtrqqjbk2kgimaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orderbirdy",
+            "certificate_hash": "753440939e3b8734ff09b2ba7c5f1520a25b57c0"
+          }
+        },
+        {
+          "client_id": "385727330852-kgerdl0im3tdjrdttn5prrvif0bbtrke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDjGkIaDRwVQvoCIA9GGL6YXk0i6ULsRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385727330852-kgerdl0im3tdjrdttn5prrvif0bbtrke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385727330852-349p3qm5vcglfg9qsrt8cgikuqvvcm0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "weby.orderbirdy.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385727330852:android:7117c1d1cbda27828c36b1",
+        "android_client_info": {
+          "package_name": "com.orderbirdy.weby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385727330852-kgerdl0im3tdjrdttn5prrvif0bbtrke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDjGkIaDRwVQvoCIA9GGL6YXk0i6ULsRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385727330852-kgerdl0im3tdjrdttn5prrvif0bbtrke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385727330852-349p3qm5vcglfg9qsrt8cgikuqvvcm0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "weby.orderbirdy.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

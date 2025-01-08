@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OrderBirdy</string>
+    <string name="facebook_app_id">3013288085485694</string>
+    <string name="facebook_client_token">f9b6cc8cbc29cb35c725f53710ada742</string>
+</resources>
