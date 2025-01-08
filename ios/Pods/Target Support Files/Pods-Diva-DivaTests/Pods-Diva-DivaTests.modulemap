@@ -1,0 +1,6 @@
+module Pods_Diva_DivaTests {
+  umbrella header "Pods-Diva-DivaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
